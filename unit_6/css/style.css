@@ -1,0 +1,139 @@
+	@import url('https://fonts.googleapis.com/css?family=Arvo|Work+Sans');
+
+body {
+	color: #1B31FF; 
+	font-size: 35px; 
+	font-weight: 100;
+	padding-left: 20px; padding-top: 20px;
+	font-family: 'Arvo', serif, Helvetica;
+	font-family: 'Work Sans', sans-serif, Helvetica;
+}
+
+h1 {
+	text-transform: uppercase; 
+	color: #FF2200; 
+	font-size: 14px; 
+	font-family: 'Arvo', serif, Helvetica;
+	font-family: 'Work Sans', sans-serif, Helvetica; 
+	font-weight: 900; 
+	letter-spacing: 5px;
+}
+
+ul {
+    text-align: left;
+    list-style-type: none;
+}
+
+li { 
+	text-decoration: none; 
+}
+
+ul li{
+  display: inline;
+}
+
+img {
+	height: 500px; 
+}
+
+a {
+	text-decoration: none;
+}
+
+#slogan {
+text-transform: uppercase; 
+    color: #1B31FF; 
+    font-size: 14px; 
+    font-family: 'Arvo', serif, Helvetica;
+    font-family: 'Work Sans', sans-serif, Helvetica; 
+    font-weight: 900; 
+    letter-spacing: 5px;  
+}
+
+header {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+}
+
+nav {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+
+aside {
+    background-color: ##FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+    text-transform: uppercase; 
+    color: #1B31FF; 
+    font-size: 14px; 
+    font-family: 'Arvo', serif, Helvetica;
+    font-family: 'Work Sans', sans-serif, Helvetica; 
+    font-weight: 900; 
+    letter-spacing: 5px; 
+}
+
+div {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+#left {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 45%;
+}
+
+#right {
+    background-color: #FFFFFF;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 45%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#picture {
+    width: 100%;
+
+}
