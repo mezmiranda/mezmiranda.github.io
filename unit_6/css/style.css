@@ -54,7 +54,14 @@ header {
     background-color: #FFFFFF;
     border: 1px black solid;
     padding: 20px;
-    float: left;
+}
+
+header h1 {
+   float:left; 
+}
+
+header #slogan {
+   float:left; 
 }
 
 nav {
